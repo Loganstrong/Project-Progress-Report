@@ -2,7 +2,7 @@
 
 1. Briefly describe your project. (About 2 sentences.)
 
-In our Project we will recreate a website and database.  The function we will have in our website is several tabs, login and  
+In our Project we will recreate a website and database.  We will use the old website as a guide and that will help us create the updated website.
 
 2. What is your particular role in the project?
 
