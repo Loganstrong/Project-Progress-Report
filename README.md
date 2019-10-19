@@ -6,7 +6,7 @@ In our Project we will recreate a website and database.  We will use the old web
 
 2. What is your particular role in the project?
 
-My role is ot help create webapge for the website. 
+My role is to help create webapge for the website. 
 
 3. What have you done personally in the two weeks leading up to today?
 
