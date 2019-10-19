@@ -18,5 +18,5 @@ We have wrote down what we want to do on the website and the database that will 
 
 5. Give a link to the journal file in your repository
 
-https://github.com/Loganstrong/Project-Progress-Report/blob/master/README.md
+https://github.com/Loganstrong/Project-Progress-Report
 
